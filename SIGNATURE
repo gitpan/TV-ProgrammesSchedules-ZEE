@@ -1,0 +1,38 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.66.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 a648944c884e685fff0d5f00ba1a9622b10217dc Build.PL
+SHA1 10f894b12491d11fa0d733ea126460023cab1f20 Changes
+SHA1 3c4e3a7b0d72b587dda5b64a8c047eb6b6d01621 MANIFEST
+SHA1 7d20e4e840781030202bb045d5ab81b3fd1b68b0 MANIFEST.SKIP
+SHA1 dbd0c658307bbd84ee96e2d940f67e0159bf734a META.yml
+SHA1 85a025ea564ba41373cf5015654d4b257ee097e7 Makefile.PL
+SHA1 59b9c76beb09566a78216d0514d2e62c06cfc0bf README
+SHA1 8af608844d03a8356a5972901bce6ac501840271 lib/TV/ProgrammesSchedules/ZEE.pm
+SHA1 28af7338dcd85fc7827594a86fd1745e628396a0 t/00-load.t
+SHA1 2b8ffb7e4f399af95d092743846ac8d438f2c53e t/manifest.t
+SHA1 0765c9ff0cc4319f415bb08d0053b7717a8284a2 t/pod.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.14 (MingW32)
+
+iQEcBAEBAgAGBQJNtqLpAAoJEPYcXBXhRYOh4O4H/08/NG1odpyMkFcTOBg7FaXr
+VAl6OO66eKbD/HZYGm9HxAWXfsu18N59nCphZmBmX4KDjIlWxXdivzi0+UKzAQ4M
+eFYPKDXGNwFX5LAAsGnYIw677DT5CkIO2u26+RURms7J8WhMLFgF6wcdp70VXAjR
+ivH5kIur5wbd6uLY50AnznyaVvkD6+g2ris0eWFTbpww/gYBsXbjYxey5stHx0lH
+sltnb633k+cej31B4vONGq0IcMxF8wtwVahksjrcQnubXb5D3oio9/fX3nX4vyF+
+Q0WVq4KNrjv2KsF+bcl5qfSRDFsAtbyxXc/uEGSeY4pE7zlgRqm7AZQo2Zi7k6M=
+=D/3q
+-----END PGP SIGNATURE-----

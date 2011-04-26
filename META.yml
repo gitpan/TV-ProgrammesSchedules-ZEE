@@ -1,0 +1,25 @@
+---
+abstract: 'Interface to ZEE TV Programmes Schedules.'
+author:
+  - 'Mohammad S Anwar <mohammad.anwar@yahoo.com>'
+build_requires:
+  HTTP::Request::Common: 0
+  LWP::UserAgent: 2.33
+  Readonly: 0
+  Test::More: 0
+  Time::localtime: 1.02
+configure_requires:
+  Module::Build: 0.36
+generated_by: 'Module::Build version 0.3607'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: TV-ProgrammesSchedules-ZEE
+provides:
+  TV::ProgrammesSchedules::ZEE:
+    file: lib/TV/ProgrammesSchedules/ZEE.pm
+    version: 0.01
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.01
