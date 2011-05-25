@@ -17,11 +17,11 @@ TV::ProgrammesSchedules::ZEE - Interface to ZEE TV Programmes Schedules.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 our $DEBUG   = 0;
 
 Readonly my $BASE_URL => 'http://www.zeetv.com/schedule/';
@@ -267,8 +267,6 @@ L<http://cpanratings.perl.org/d/TV-ProgrammesSchedules-ZEE>
 L<http://search.cpan.org/dist/TV-ProgrammesSchedules-ZEE/>
 
 =back
-
-=head1 ACKNOWLEDGEMENTS
 
 =head1 LICENSE AND COPYRIGHT
 
