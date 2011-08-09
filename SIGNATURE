@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.66.
+signed via the Module::Signature module, version 0.68.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,25 +14,25 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 a648944c884e685fff0d5f00ba1a9622b10217dc Build.PL
-SHA1 ccc48a3d05fa86519a7f88af166e35c385898047 Changes
+SHA1 d3e260ba4a64f06368a8b162c3c3faa9251a75a4 Build.PL
+SHA1 168dd48db20d75a48057816570cca26a28cde7df Changes
 SHA1 3c4e3a7b0d72b587dda5b64a8c047eb6b6d01621 MANIFEST
 SHA1 7d20e4e840781030202bb045d5ab81b3fd1b68b0 MANIFEST.SKIP
-SHA1 75c7a0949af78e4fff0f380c9455ca1b933c45a4 META.yml
-SHA1 85a025ea564ba41373cf5015654d4b257ee097e7 Makefile.PL
+SHA1 a9f495a120b13e4a828137ba79d79228c9a5d616 META.yml
+SHA1 62557850e85ca7c3cd9ae1ad77f36d9dda2f0fcb Makefile.PL
 SHA1 59b9c76beb09566a78216d0514d2e62c06cfc0bf README
-SHA1 c3ec3958abdca7f6a7daa6cb451f91f9bb671e95 lib/TV/ProgrammesSchedules/ZEE.pm
+SHA1 5dc6f7bdd9d09a6ef07829f10501176afdcf30ca lib/TV/ProgrammesSchedules/ZEE.pm
 SHA1 28af7338dcd85fc7827594a86fd1745e628396a0 t/00-load.t
 SHA1 2b8ffb7e4f399af95d092743846ac8d438f2c53e t/manifest.t
 SHA1 0765c9ff0cc4319f415bb08d0053b7717a8284a2 t/pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.14 (MingW32)
 
-iQEcBAEBAgAGBQJN3NyqAAoJEPYcXBXhRYOhOVsIAI8sCIf6G0193qB6WvmG4Ci1
-bfI1hziHBzrnFE+1dyUmLNGNzcA+djdhQ0Js+HD/I4xil2j2wg+3LJw1M8/zYnP/
-p5OFosePkl26aO1acbD6zOyW9QKkEm8iJiVv1ClWOAi8pZF5y1OFmcEmVKAflZ8i
-3bhXNu+PAeF3AoEOx5kmTHAwxhbKA/MmtVejBHk6Moa0s3N2Dd5vbD5oks1l0rk8
-GKz48zIvqow6sPDkGH6wyNDxcgPiViGWb639IfmPbF1kHBLqyCCF2CVc8weSo8BO
-fSB6yNU8qTCVVModbnumavZIi/Mr4FP5fxMsE7j9AFlCbhF1IrZ8kmyBZDAFhA4=
-=tjEh
+iQEcBAEBAgAGBQJOQQ0dAAoJEPYcXBXhRYOhc+QH/3zu480SLBUO05FXERpeJGND
+xjs9Zi1lYJSltxhHt7W+Qwue7ZvhBScVyXdIy/CzNb1DeeCVgbciJ/GE/TqWNDOL
+/Cku1MbjQr8arAckXk1kH3oZ0DxuCZ1/mg/TItZRshXvbiIeTEDvP/y11marHQSX
+zTUHLlLMYpkkFyD8WfojCrVK+5t4VS7/2ndlduim4Qe/pqPhCB3/oxZ5EQrBulIO
+73otpUIn6BIaYOlQy+61hHKDQ4zWlsmPerrNI6iGefkdsf6QLRuiYPKUDAy6YZPr
+DwFeKoHOqI7pk4YrTtcAdGw4Rw7Tp8cgVoNuLmdg3rdFN7lRj7rs+tOeZsuYK3g=
+=fvrw
 -----END PGP SIGNATURE-----

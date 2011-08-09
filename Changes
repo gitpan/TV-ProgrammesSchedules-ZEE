@@ -1,5 +1,9 @@
 Revision history for TV-ProgrammesSchedules-ZEE
 
+0.03    Tue Aug 09 11:32:13 2011
+        - Made Readonly v1.03 as minimum requirement.
+        - Prepared the distribution using the Module::Signature v0.68.
+
 0.02    Wed May 25 11:39:20 2011
         - Removed the ACKNOWLEDGEMENTS title from the pod.
 
